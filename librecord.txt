@@ -1,0 +1,6 @@
+
+1	Alu	Sakib	0	1    	Vorta	
+2	Begun	Singh	1	1    	Vaji	
+3	Mango	Mukta	1	1    	Chapai	
+4	Badam	Mukta	0	1    	Kacha	
+5	Coffee	Sakib	1	2	Caffaine	Blak	
